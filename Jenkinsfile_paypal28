@@ -33,4 +33,4 @@ node{
 Regards,
 Landmark Technology''', recipientProviders: [buildUser(), developers(), contributor()], subject: 'Build Status', to: 'paypal-team@gmail.com'
   }
- *\
+ */
